@@ -1,2 +1,2 @@
 # Customer-Churn-prediction-model-using-ML
-- Achieved 90% precision rate by developing a Customer Churn   prediction model using XG Boost and compared it with Random   Forest classifier. - Implemented visualization with Sweet Viz, showcasing insights and   enhancing data-driven decision making.
+-Comparative churn analysis using Random Forest & XGBoost. Optimized for high-stakes prediction with 92% precision on non-churners and 65% recall on churned customers through automated threshold tuning. - Implemented visualization with Sweet Viz, showcasing insights.
